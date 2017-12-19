@@ -1,1 +1,1 @@
-img <skr="ScreenCaptureProject1.gif">
+<img src="ScreenCaptureProject1.gif">
